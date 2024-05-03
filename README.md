@@ -14,3 +14,10 @@
 ## V_data file
 - Contains raw data collected from official websites.
 - .pkl files are preprocessed files for better reading.
+
+## Results file
+- Storing the results data from main programing file VR_SDP.ipynb.
+- Please see the naming rules from VR_SDP.ipynb file.
+
+## gadm36_JPN_shp
+- This file is for the map ploting in Figures.ipynb.
