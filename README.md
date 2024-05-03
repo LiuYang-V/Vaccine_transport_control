@@ -5,3 +5,10 @@
 - Due to certain confidential issues, some raw data in the folder are preprocessed.  
 
 ## Programs file
+- Data read & preprocess files reads csv data from V_data floder and process to pkl files for main program. It also plots the accutal infection data and vaccination data.
+- VR_SDP file is the calculating file for the optimization problem. The results are stored in Results folder in .pkl format. 
+- Figures file plots the figures using results and raw data.
+- Two .py file are moudules built for calculating state variables, adjoint variables and total costs.
+
+
+## V_data file
