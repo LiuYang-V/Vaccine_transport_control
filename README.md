@@ -12,3 +12,5 @@
 
 
 ## V_data file
+- Contains raw data collected from official websites.
+- .pkl files are preprocessed files for better reading.
