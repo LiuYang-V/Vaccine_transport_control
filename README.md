@@ -21,3 +21,7 @@
 
 ## gadm36_JPN_shp Folder
 - This file is for the map ploting in Figures.ipynb.
+
+
+## Author introduction:
+Liu Yang (Corresponding author): https://sites.google.com/view/liuyangtitech/%E9%A6%96%E9%A1%B5
