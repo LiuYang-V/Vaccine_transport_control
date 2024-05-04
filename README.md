@@ -26,6 +26,6 @@
 
 
 ## Author introduction:
-Liu Yang (Corresponding author): https://sites.google.com/view/liuyangtitech/%E9%A6%96%E9%A1%B5
-Sugishita Kashin: https://www.kashinsugishita.com/
-Hanaoka Shinya: http://www.ide.titech.ac.jp/~hanaoka/home.jp.html
+- Liu Yang (Corresponding author): https://sites.google.com/view/liuyangtitech/%E9%A6%96%E9%A1%B5
+- Sugishita Kashin: https://www.kashinsugishita.com/
+- Hanaoka Shinya: http://www.ide.titech.ac.jp/~hanaoka/home.jp.html
